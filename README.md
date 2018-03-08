@@ -1,25 +1,10 @@
 # AUDRI
 Learning to drive using inverse reinforcement learning
 
-[Slack](https://audri.slack.com) - we do most of our online communication here  
-[Issue board](https://projects.cs.nott.ac.uk/grp17-todo/audri/boards) - we keep track of tasks on the GitLab issue boards.  
-Meetings are planned and documented using issues labelled [~meeting](https://projects.cs.nott.ac.uk/grp17-todo/audri/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=meeting)  
-Documents related to the project can be found in the [`docs`](docs/) directory  
-[Timeline](docs/timeline.md) - the project's development plan, including necessary features and
-their deadlines
+![alt text](https://github.com/Zehui127/Self_driven-car-simulator/blob/master/demo.JPG)
+### Copy rights
+Mnay work of the similator done together by William and other team members 
 
-### Team members
-Pierce James Morris (@psypm)  
-Amber Elliott (@psyale) - Team leader  
-Cameron Hubbard (@psych4)  
-William Vigolo da Silva (@psywv) - Git master  
-Zehui Li (@psyzl3)  
-Hao Sun (@psyhs2)  
-
-[GitLab group](https://projects.cs.nott.ac.uk/groups/grp17-todo/group_members)
-
-### Supervisor
-Ender Özcan ([ender.ozcan@nottingham.ac.uk](mailto:ender.ozcan@nottingham.ac.uk))
 
 ## Dependencies
 
