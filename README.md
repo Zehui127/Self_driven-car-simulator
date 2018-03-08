@@ -3,7 +3,7 @@ Learning to drive using inverse reinforcement learning
 
 ![alt text](https://github.com/Zehui127/Self_driven-car-simulator/blob/master/demo.JPG)
 ### Copy rights
-Mnay work of the similator done together by William and other team members 
+Many work of the similator is also done together by William and other team members 
 
 
 ## Dependencies
